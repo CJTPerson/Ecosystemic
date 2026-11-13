@@ -1,0 +1,13 @@
+{
+  "itemGroup.ecosystemic": "Example Mod Tab",
+  "block.ecosystemic.example_block": "Example Block",
+  "item.ecosystemic.example_item": "Example Item",
+
+  "ecosystemic.configuration.title": "Ecosystemic Configs",
+  "ecosystemic.configuration.section.ecosystemic.common.toml": "Ecosystemic Configs",
+  "ecosystemic.configuration.section.ecosystemic.common.toml.title": "Ecosystemic Configs",
+  "ecosystemic.configuration.items": "Item List",
+  "ecosystemic.configuration.logDirtBlock": "Log Dirt Block",
+  "ecosystemic.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ecosystemic.configuration.magicNumber": "Magic Number"
+}
